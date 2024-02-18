@@ -2,11 +2,11 @@
 A food and recipe website with a wide variety of dishes worldwide allows users to search for a meal, see all meals in a selected category or area, and view all ingredients of the chosen meal.
 
 ## Tools :
-HTML
-CSS
-Bootstrap
-JavaScript
-JQuery
+- HTML
+- CSS
+- Bootstrap
+- JavaScript
+- JQuery
 
 ## Api Source
 https://www.themealdb.com/
